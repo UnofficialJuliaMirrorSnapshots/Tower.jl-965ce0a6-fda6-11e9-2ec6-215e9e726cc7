@@ -1,0 +1,10 @@
+name = "Tower"
+uuid = "965ce0a6-fda6-11e9-2ec6-215e9e726cc7"
+authors = ["Juliano Silva <julianosoaresdasilva@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.0"
